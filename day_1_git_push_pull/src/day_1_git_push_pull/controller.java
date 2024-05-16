@@ -6,6 +6,10 @@ public class controller {
 		
 		System.out.println("acc no.:-159998760025");
 	}
+
+	public void EMI(){
+        System.out.println("EMI no:54595");
+	}
 	
 	
 	public static void main(String[] args) {
